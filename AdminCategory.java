@@ -12,7 +12,7 @@ import org.yourcart.model.CategoryModel;
 
 /**
  * add category
- * @author Nesmaa
+ 
  */
 @WebServlet("/admin/AdminCategory")
 public class AdminCategory extends HttpServlet {
